@@ -1,0 +1,1 @@
+"""Metrics and evaluation tools for measuring object deletion and image consistency."""
